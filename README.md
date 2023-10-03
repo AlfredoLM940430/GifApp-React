@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Repositorio del proyecto GifExpertApp elabrado con React
+Repositorio de proyecto GifExpertApp elabrado con React
